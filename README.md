@@ -50,18 +50,6 @@ I will respond to all inquiries via email and provide detailed documentation of 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 📜 The Journey of a Titan Builder: From Al-Najeed to Layer ∞
 A Sovereign Manifesto to the Sherlock Community & Auditors
 cc: @frimoldi.eth @Jnforja @Fav_Truffle
