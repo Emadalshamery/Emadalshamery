@@ -1,7 +1,6 @@
 
 📜 The Journey of a Titan Builder: From Al-Najeed to Layer ∞
-A Sovereign Manifesto to the Sherlock Community & Auditors
-cc: @frimoldi.eth @Jnforja @Fav_Truffle
+
 I am Emad Al-Shamiri, a Computer Engineering graduate. My journey in the blockchain was not paved in corporate offices or elite hubs; it was carved block by block, starting from the village of Al-Najeed to the global frontiers of Web3.
 The "223 Repositories": A Lifelong Laboratory
 If you look at my GitHub and see 223 repositories, do not see "fragmentation." See "Obsession." As a computer engineer, I refused to be a developer who only understands one layer. I wanted to touch the "bare metal" of the blockchain.
